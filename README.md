@@ -1,1 +1,1 @@
-# School-Management-System-
+School Management System Using PHP & MYSQL database
